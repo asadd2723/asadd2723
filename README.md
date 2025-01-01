@@ -6,7 +6,7 @@ I'm a dedicated Web Developer with a passion for crafting user-friendly, respons
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asadd2723&label=Profile%20views&color=0e75b6&style=flat" alt="asadd2723" /> </p>
 
-- 💼 **React Developer** at Repla Technologies.
+- 💼 **Front-End Developer** at Repla Technologies.
   
 - 🌱 Currently expanding my expertise in **Full Stack Development, Advanced React, TypeScript, Vercel, Ant Design, and GraphQL.**
 
